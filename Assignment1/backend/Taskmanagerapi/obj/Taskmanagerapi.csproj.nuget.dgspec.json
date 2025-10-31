@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj": {}
+    "F:\\PATHLOCK\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj": {}
   },
   "projects": {
-    "F:\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj": {
+    "F:\\PATHLOCK\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj",
+        "projectUniqueName": "F:\\PATHLOCK\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj",
         "projectName": "Taskmanagerapi",
-        "projectPath": "F:\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj",
+        "projectPath": "F:\\PATHLOCK\\Assignment1\\backend\\Taskmanagerapi\\Taskmanagerapi.csproj",
         "packagesPath": "C:\\Users\\ishno\\.nuget\\packages\\",
-        "outputPath": "F:\\Assignment1\\backend\\Taskmanagerapi\\obj\\",
+        "outputPath": "F:\\PATHLOCK\\Assignment1\\backend\\Taskmanagerapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ishno\\AppData\\Roaming\\NuGet\\NuGet.Config"

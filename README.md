@@ -1,2 +1,2 @@
 # PATHLOCK
-Assignments done according to the requirements
+Assignments done according to the requirement
